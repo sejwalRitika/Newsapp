@@ -1,0 +1,11 @@
+businessen
+entertainment
+general
+health
+science
+sports
+technology
+
+<Route path="/businessen">
+ <News pageSize={5} country="in" category="general" />
+</Route>
